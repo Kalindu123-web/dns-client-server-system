@@ -109,18 +109,6 @@ dig kalindu3380.IT23743380.lk
 dig -x 23.74.33.10
 ```
 
----
-
-## 📸 Screenshots
-
-> Add your screenshots here
-
-* DNS Resolution
-* Reverse Lookup
-* Client-Server Output
-
----
-
 ## 🎯 Learning Outcomes
 
 ✔ DNS Zone Configuration
