@@ -101,6 +101,15 @@ gcc client.c -o client
 
 ---
 
+📧 Mail Server
+🔹 Technologies
+Postfix – Mail Transfer Agent (sending)
+Dovecot – Mail Delivery Agent (receiving)
+🔹 Features
+Maildir-based storage
+Local mail delivery
+
+
 ## 🧪 DNS Testing
 
 ```bash
