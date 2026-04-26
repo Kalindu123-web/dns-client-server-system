@@ -1,0 +1,21 @@
+$TTL 86400
+@   IN  SOA     kalindu3380.IT23743380.lk. root.IT23743380.lk. (
+        2026040301 ; Serial
+        3600       ; Refresh
+        1800       ; Retry
+        604800     ; Expire
+        86400     ; Minimum TTL
+)
+; Nameserver
+@       IN  NS      kalindu3380.IT23743380.lk.
+
+@       IN  A       23.74.33.10
+
+@       IN  A       23.74.33.20
+
+@       IN  MX      10 mail.IT23743380.lk.
+; Your hosts
+mail                 IN  A       23.74.33.10
+kalindu3380          IN  A       23.74.33.10
+kalindu3380cli       IN  A       23.74.33.20
+                                            
