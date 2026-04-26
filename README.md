@@ -101,11 +101,13 @@ gcc client.c -o client
 
 ---
 
-📧 Mail Server
-🔹 Technologies
+📧Mail Server
+
+🔹Technologies
 Postfix – Mail Transfer Agent (sending)
 Dovecot – Mail Delivery Agent (receiving)
-🔹 Features
+
+🔹Features
 Maildir-based storage
 Local mail delivery
 
