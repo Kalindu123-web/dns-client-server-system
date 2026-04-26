@@ -1,12 +1,23 @@
-# 🌐 DNS & Client-Server System 🚀
+<div align="center">
 
-![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)
-![C](https://img.shields.io/badge/Language-C-orange?logo=c)
-![BIND](https://img.shields.io/badge/DNS-BIND-green)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
+# 🌐 DNS & Client-Server System
 
----
+### Linux Networking Project with BIND DNS, Mail Server, and C Socket Programming
+
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CentOS](https://img.shields.io/badge/Server-CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![C](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![BIND](https://img.shields.io/badge/DNS-BIND-2E8B57?style=for-the-badge)
+![Postfix](https://img.shields.io/badge/Mail-Postfix-D14836?style=for-the-badge)
+![Dovecot](https://img.shields.io/badge/Mail-Dovecot-6A5ACD?style=for-the-badge)
+![TCP](https://img.shields.io/badge/Protocol-TCP%2FIP-0078D4?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Authoritative+DNS+Server+with+BIND;Forward+and+Reverse+DNS+Resolution;Postfix+%2B+Dovecot+Mail+Server;TCP+Client-Server+Application+in+C;Session+Logging+with+IP+and+Port+Details" alt="Typing SVG" />
+
+</div>
 
 ## 📌 Overview
 
