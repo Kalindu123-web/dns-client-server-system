@@ -60,8 +60,8 @@ kalindu3380cli       → 23.74.33.20
 ### 🔹 Reverse DNS
 
 ```
-23.74.33.10 → achindu4940.IT23534940.lk
-23.74.33.20 → achindu4940cli.IT23534940.lk
+23.74.33.10 → kalindu3389.IT23534940.lk
+23.74.33.20 → kalindu3380cli.IT23534940.lk
 ```
 
 ---
